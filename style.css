@@ -132,3 +132,73 @@ button {
     border-radius: 12px;
 }
 
+.testimonial {
+  background-color: #e5e7eb; /* Light gray background */
+  padding: 60px  360px;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937; /* Dark gray text */
+}
+
+.author {
+  text-align: right;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+
+button {
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+.cta-section {
+  background-color: white;
+  padding: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cta-box {
+  background-color: #3882f6;
+  color: white;
+  padding: 30px 40px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 900px;
+}
+
+.cta-text h3 {
+  margin: 0;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.cta-text p {
+  margin: 5px 0 0;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.cta-button {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 8px 20px;
+  font-size: 0.9rem;
+}
+
+footer {
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+}
