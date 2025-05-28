@@ -24,7 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     padding: 0 200px;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
     gap: 24px;
 }
 
@@ -35,7 +35,7 @@ body {
 
 .hero-img {
     width: 400px;
-    height: 250px;
+    height: auto;
 }
 
 ul {
@@ -66,7 +66,7 @@ a {
     font-size: 48px;
     font-color: #F9FAF8;
     font-weight: 900;
-    width: 400px;
+    width: 500px;
 }
 
 .subtext {
@@ -86,16 +86,7 @@ button {
     margin-top: 8px;
 }
 
-.photo-credit {
-  font-size: 12px;
-  color: #ccc;
-  margin-top: 5px;
-}
 
-.photo-credit a {
-  color: #ccc;
-  text-decoration: none;
-}
 
 .divison {
    box-sizing: content-box;
@@ -121,13 +112,13 @@ button {
 }
 
 .img1 {
-    width: 200px;
+    width: 400px;
     text-align: center;
 }
 
 .banner-img {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border: 2px solid royalblue;
     border-radius: 12px;
 }
