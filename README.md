@@ -5,6 +5,6 @@ I've created a landing page for **CareUp**, a non-profit organization that provi
 This project is part of The Odin Project.  
 
 Technologies used: 
-**HTML**
-**CSS**
-**Flexbox**.  
+- **HTML**
+- **CSS**
+- **Flexbox**.  
